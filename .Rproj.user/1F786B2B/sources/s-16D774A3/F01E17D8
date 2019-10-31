@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572453844904.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1150271486",
+    "id" : "F01E17D8",
+    "lastKnownWriteTime" : 1572455555,
+    "last_content_update" : 1572455555292,
+    "path" : "~/Documents/EAE/R/Github/myrepo/Rmarkdown.Rmd",
+    "project_path" : "Rmarkdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "8,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

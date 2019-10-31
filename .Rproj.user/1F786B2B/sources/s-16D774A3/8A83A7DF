@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572528438718.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8A83A7DF",
+    "lastKnownWriteTime" : 1572528557,
+    "last_content_update" : 1572528557950,
+    "path" : "~/Documents/EAE/R/Github/myrepo/Razas_Perros/ui.R",
+    "project_path" : "Razas_Perros/ui.R",
+    "properties" : {
+        "cursorPosition" : "10,11",
+        "scrollLine" : "8",
+        "tempName" : "Untitled3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

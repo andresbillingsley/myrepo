@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572533429180.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "28022E29",
+    "lastKnownWriteTime" : 1572528012,
+    "last_content_update" : 1572528012,
+    "path" : "~/Documents/EAE/R/Github/myrepo/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "cursorPosition" : "119,17",
+        "scrollLine" : "103"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

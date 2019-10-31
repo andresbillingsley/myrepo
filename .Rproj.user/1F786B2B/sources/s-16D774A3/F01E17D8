@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3021265222",
+    "hash" : "0",
     "id" : "F01E17D8",
-    "lastKnownWriteTime" : 1572529686,
-    "last_content_update" : 1572529686364,
+    "lastKnownWriteTime" : 1572531229,
+    "last_content_update" : 1572531229912,
     "path" : "~/Documents/EAE/R/Github/myrepo/Rmarkdown.Rmd",
     "project_path" : "Rmarkdown.Rmd",
     "properties" : {
-        "cursorPosition" : "8,0",
+        "cursorPosition" : "15,3",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },

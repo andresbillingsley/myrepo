@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572529978610.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "857599421",
+    "id" : "E9AF4DCD",
+    "lastKnownWriteTime" : 1572450953,
+    "last_content_update" : 1572450953,
+    "path" : "~/Documents/EAE/R/Github/myrepo/Shiny_Prueba/ui.R",
+    "project_path" : "Shiny_Prueba/ui.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
